@@ -1,3 +1,5 @@
+from cart import Cart
+
 class User:
     def __init__(self, name, address, card_details):
         self.name = name
